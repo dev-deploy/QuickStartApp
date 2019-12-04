@@ -6,3 +6,4 @@
 * An updated version will be forthcoming...
 
 ## Version 1.0
+* Temporary version number
